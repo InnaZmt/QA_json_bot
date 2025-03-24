@@ -19,15 +19,15 @@
 
 Стартовое меню:
 
-![image]()
+![image](https://raw.githubusercontent.com/InnaZmt/QA_json_bot/refs/heads/main/start.png)
 
 После отправки JSON c ошибкой:
 
-![image]()
+![image](https://raw.githubusercontent.com/InnaZmt/QA_json_bot/refs/heads/main/syntax.png)
 
 Пример работы бьютифаера:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
+![image](https://raw.githubusercontent.com/InnaZmt/QA_json_bot/refs/heads/main/beautyfair.png)
 
 
 ## 💻 Технологии
